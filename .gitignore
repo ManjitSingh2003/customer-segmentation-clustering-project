@@ -40,6 +40,7 @@ coverage.xml
 # Data
 data/raw/
 data/processed/
+!data/raw/Online_Retail.xlsx
 
 # Envs
 .env
