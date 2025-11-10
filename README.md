@@ -1,10 +1,7 @@
----
 
 # 🧠 Customer Segmentation & Targeting System
 
 **An End-to-End Machine Learning Pipeline for Retail Customer Analytics**
-
-![Project Overview Banner](docs/screenshots/overview.png)
 
 ---
 
