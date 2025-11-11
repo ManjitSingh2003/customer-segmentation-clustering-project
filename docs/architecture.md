@@ -12,7 +12,7 @@ End-to-end pipeline:
 ```mermaid
 flowchart TD
   A[Ingest] --> B[Clean];
-  B --> C[Features--RFM];
+  B --> C[Features-RFM];
   C --> D[KMeans];
   D --> E[Evaluate];
   E --> F[Insights];
